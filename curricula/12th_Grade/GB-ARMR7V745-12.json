@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-ARMR7V745-12",
+  "generated_at": "2026-01-17T22:32:28.341192Z",
+  "topic": "Courage",
+  "subtopic": "1. The nature of courage",
+  "grade": "12th Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Homer"
+  ],
+  "titles": [
+    "Iliad"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": "Lego",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
