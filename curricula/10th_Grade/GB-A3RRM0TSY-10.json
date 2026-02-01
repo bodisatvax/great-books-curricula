@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-A3RRM0TSY-10",
+  "generated_at": "2026-02-01T01:03:09.017180Z",
+  "topic": "Courage",
+  "subtopic": "3. The passions in the sphere of courage: fear daring anger hope despair",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 36,
+  "authors": [
+    "Fielding"
+  ],
+  "titles": [
+    "Tom Jones"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
