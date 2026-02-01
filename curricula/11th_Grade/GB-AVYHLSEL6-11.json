@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-AVYHLSEL6-11",
+  "generated_at": "2026-02-01T03:02:46.263285Z",
+  "topic": "Courage",
+  "subtopic": "5. The motivations of courage: fame or honor happiness love duty religious faith",
+  "grade": "11th Grade",
+  "language": "English",
+  "weeks": 36,
+  "authors": [
+    "Tacitus"
+  ],
+  "titles": [
+    "Histories"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
