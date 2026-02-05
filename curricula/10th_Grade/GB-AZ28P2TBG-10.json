@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-AZ28P2TBG-10",
+  "generated_at": "2026-02-05T22:50:00.235102Z",
+  "topic": "Happiness",
+  "subtopic": "2. The understanding of happiness definitions and myths",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Aristotle"
+  ],
+  "titles": [
+    "Ethics"
+  ],
+  "total_sources": 1,
+  "question_type": "multiple Choice",
+  "question_count": 5,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "ballet",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
