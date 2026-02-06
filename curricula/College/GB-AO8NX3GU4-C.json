@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-AO8NX3GU4-C",
+  "generated_at": "2026-02-06T03:47:59.844131Z",
+  "topic": "History",
+  "subtopic": "1. History as knowledge and as literature its kinds and divisions its distinction from poetry myth philosophy and science",
+  "grade": "College",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Herodotus"
+  ],
+  "titles": [
+    "History"
+  ],
+  "total_sources": 1,
+  "question_type": "multiple Choice",
+  "question_count": 10,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "Exercise, video games, stories",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
