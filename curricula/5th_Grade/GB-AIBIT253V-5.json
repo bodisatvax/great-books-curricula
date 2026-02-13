@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-AIBIT253V-5",
+  "generated_at": "2026-02-13T20:17:59.157800Z",
+  "topic": "Truth",
+  "subtopic": "1. The nature of truth",
+  "grade": "5th Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Aquinas"
+  ],
+  "titles": [
+    "Summa Theologica"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "my friend Sarah",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
