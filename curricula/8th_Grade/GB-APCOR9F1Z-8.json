@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-APCOR9F1Z-8",
+  "generated_at": "2026-02-14T22:28:31.611816Z",
+  "topic": "Science",
+  "subtopic": "1a(1): The intellectual virtue of science its relation to understanding and wisdom",
+  "grade": "8th Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Aquinas",
+    "Aristotle",
+    "Plato"
+  ],
+  "titles": [
+    "Ethics",
+    "Republic",
+    "Summa Theologica"
+  ],
+  "total_sources": 3,
+  "question_type": "multiple Choice",
+  "question_count": 10,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "Science, Rocks, Legos, Cello",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
