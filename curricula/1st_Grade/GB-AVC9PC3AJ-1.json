@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-AVC9PC3AJ-1",
+  "generated_at": "2026-02-14T22:54:45.784412Z",
+  "topic": "Family",
+  "subtopic": "1. The nature and necessity of the family",
+  "grade": "1st Grade",
+  "language": "English",
+  "weeks": 2,
+  "authors": [
+    "Aristotle",
+    "Lucretius",
+    "Plato"
+  ],
+  "titles": [
+    "Laws",
+    "Nature of Things",
+    "Politics"
+  ],
+  "total_sources": 3,
+  "question_type": "multiple Choice",
+  "question_count": 10,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "Books, Art, Music",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
