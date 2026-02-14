@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-A3C9K8KWJ-K",
+  "generated_at": "2026-02-14T22:42:53.096214Z",
+  "topic": "Courage",
+  "subtopic": "1. The nature of courage",
+  "grade": "Kindergarten",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Homer"
+  ],
+  "titles": [
+    "Iliad"
+  ],
+  "total_sources": 1,
+  "question_type": "multiple Choice",
+  "question_count": 5,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "Dinosaurs, Knights, Legos",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
