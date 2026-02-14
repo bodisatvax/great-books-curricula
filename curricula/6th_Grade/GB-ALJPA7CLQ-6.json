@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-ALJPA7CLQ-6",
+  "generated_at": "2026-02-14T22:38:55.458291Z",
+  "topic": "Courage",
+  "subtopic": "1. The nature of courage",
+  "grade": "6th Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Homer"
+  ],
+  "titles": [
+    "Iliad"
+  ],
+  "total_sources": 1,
+  "question_type": "multiple Choice",
+  "question_count": 10,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "Latin, knights, Legos, Cello",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
