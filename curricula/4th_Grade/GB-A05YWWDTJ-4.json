@@ -1,0 +1,26 @@
+{
+  "curriculum_id": "GB-A05YWWDTJ-4",
+  "generated_at": "2026-02-14T22:47:50.984745Z",
+  "topic": "Happiness",
+  "subtopic": "1. The desire for happiness:ts naturalness and universality",
+  "grade": "4th Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Aristotle",
+    "Plato"
+  ],
+  "titles": [
+    "Ethics",
+    "Euthydemus",
+    "Symposium"
+  ],
+  "total_sources": 2,
+  "question_type": "multiple Choice",
+  "question_count": 10,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "Books, Art, Music",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
