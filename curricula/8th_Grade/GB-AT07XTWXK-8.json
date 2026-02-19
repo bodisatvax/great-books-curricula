@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-AT07XTWXK-8",
+  "generated_at": "2026-02-19T01:45:29.808420Z",
+  "topic": "Temperance",
+  "subtopic": "1. The nature of temperance.",
+  "grade": "8th Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Plato"
+  ],
+  "titles": [
+    "Phaedo",
+    "Phaedrus",
+    "Protagoras"
+  ],
+  "total_sources": 1,
+  "question_type": "multiple Choice",
+  "question_count": 10,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "Wolves",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
