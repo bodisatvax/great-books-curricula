@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-A45HALOEG-10",
+  "generated_at": "2026-02-19T01:34:18.438289Z",
+  "topic": "Temperance",
+  "subtopic": "1. The nature of temperance.",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Plato"
+  ],
+  "titles": [
+    "Phaedo",
+    "Phaedrus",
+    "Protagoras"
+  ],
+  "total_sources": 1,
+  "question_type": "multiple Choice",
+  "question_count": 10,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "Star Wars",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
