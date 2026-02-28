@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-A5KE3X9RJ-5",
+  "generated_at": "2026-02-28T21:27:57.904316Z",
+  "topic": "Advancement of Learning",
+  "subtopic": "13 Great Ideas",
+  "grade": "5th Grade",
+  "language": "English",
+  "weeks": 12,
+  "authors": [
+    "Bacon"
+  ],
+  "titles": [
+    "Advancement of Learning"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 15,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
