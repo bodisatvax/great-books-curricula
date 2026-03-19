@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-AFIHYQRV0-2",
+  "generated_at": "2026-03-19T00:27:02.517761Z",
+  "topic": "Angels",
+  "subtopic": "2b. Our knowledge of immaterial beings",
+  "grade": "2nd Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Aquinas",
+    "Augustine",
+    "Plotinus"
+  ],
+  "titles": [
+    "Confessions",
+    "Summa Theologica",
+    "Third Ennead"
+  ],
+  "total_sources": 3,
+  "question_type": "mixed",
+  "question_count": 5,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
