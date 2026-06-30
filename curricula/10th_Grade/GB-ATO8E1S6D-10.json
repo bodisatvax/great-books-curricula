@@ -1,0 +1,24 @@
+{
+  "curriculum_id": "GB-ATO8E1S6D-10",
+  "generated_at": "2026-06-30T11:03:51.182847Z",
+  "topic": "Liberty",
+  "subtopic": "1a. The birthright of freedom",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Hegel"
+  ],
+  "titles": [
+    "Philosophy of History",
+    "Philosophy of Right"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
