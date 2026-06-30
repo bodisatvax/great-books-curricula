@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-AB5V8KZTU-10",
+  "generated_at": "2026-06-30T01:33:47.079956Z",
+  "topic": "Liberty",
+  "subtopic": "1a. The birthright of freedom",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Aquinas",
+    "Augustine",
+    "Shakespeare"
+  ],
+  "titles": [
+    "City of God",
+    "Julius Caesar",
+    "Summa Theologica"
+  ],
+  "total_sources": 3,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
