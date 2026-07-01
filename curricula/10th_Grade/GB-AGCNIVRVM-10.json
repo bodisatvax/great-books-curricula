@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-AGCNIVRVM-10",
+  "generated_at": "2026-07-01T10:45:00.514367Z",
+  "topic": "Liberty",
+  "subtopic": "1f. The freedom of equals under government: the equality of citizenship",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Aquinas",
+    "Hobbes",
+    "Tacitus"
+  ],
+  "titles": [
+    "Annals",
+    "Leviathan",
+    "Summa Theologica"
+  ],
+  "total_sources": 3,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
