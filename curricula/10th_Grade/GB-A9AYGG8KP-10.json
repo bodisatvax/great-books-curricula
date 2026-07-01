@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-A9AYGG8KP-10",
+  "generated_at": "2026-07-01T10:29:22.479927Z",
+  "topic": "Liberty",
+  "subtopic": "1d. The supremacy of law as a condition of political liberty",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Locke",
+    "Montesquieu"
+  ],
+  "titles": [
+    "Civil Government",
+    "Spirit of Laws"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
