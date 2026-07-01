@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-AVSM1P42H-10",
+  "generated_at": "2026-07-01T11:04:02.215332Z",
+  "topic": "Liberty",
+  "subtopic": "1h. Civil liberty under diverse forms of government",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Hobbes",
+    "Milton"
+  ],
+  "titles": [
+    "Areopagitica",
+    "Leviathan"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
