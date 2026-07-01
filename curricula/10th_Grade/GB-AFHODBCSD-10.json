@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-AFHODBCSD-10",
+  "generated_at": "2026-07-01T10:52:14.693424Z",
+  "topic": "Liberty",
+  "subtopic": "1g. The juridical protection of liberties: bills of rights",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "American State Papers"
+  ],
+  "titles": [
+    "Constitution of the U.S."
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
