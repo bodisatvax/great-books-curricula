@@ -1,0 +1,26 @@
+{
+  "curriculum_id": "GB-AS2KWNA7I-10",
+  "generated_at": "2026-07-01T10:20:50.992849Z",
+  "topic": "Liberty",
+  "subtopic": "1c. The relation of liberty to free will: the conceptions of liberty as freedom from interference and freedom for personal development",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Montesquieu",
+    "Rousseau"
+  ],
+  "titles": [
+    "Political Economy",
+    "Social Contract",
+    "Spirit of Laws"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
