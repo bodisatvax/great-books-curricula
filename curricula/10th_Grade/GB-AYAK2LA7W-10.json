@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-AYAK2LA7W-10",
+  "generated_at": "2026-07-01T10:37:28.599380Z",
+  "topic": "Liberty",
+  "subtopic": "1e. The restriction of freedom by justice: the distinction between liberty and license",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Shakespeare",
+    "Spinoza"
+  ],
+  "titles": [
+    "Ethics",
+    "Measure for Measure"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
