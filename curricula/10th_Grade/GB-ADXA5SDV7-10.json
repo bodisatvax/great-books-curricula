@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-ADXA5SDV7-10",
+  "generated_at": "2026-07-02T16:44:28.326829Z",
+  "topic": "Liberty",
+  "subtopic": "2a. Freedom of thought and expression: the problem of censorship",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Herodotus",
+    "Thucydides"
+  ],
+  "titles": [
+    "History",
+    "Peloponnesian War"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
