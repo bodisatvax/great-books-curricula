@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-AN4OK9M6R-10",
+  "generated_at": "2026-07-02T17:51:45.863446Z",
+  "topic": "Liberty",
+  "subtopic": "3d. Freedom from conflict and freedom for individuality as conditions of happiness",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Augustine",
+    "Aurelius",
+    "Epictetus"
+  ],
+  "titles": [
+    "Confessions",
+    "Discourses",
+    "Meditations"
+  ],
+  "total_sources": 3,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
