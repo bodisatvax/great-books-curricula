@@ -1,0 +1,26 @@
+{
+  "curriculum_id": "GB-AICFI1P0A-10",
+  "generated_at": "2026-07-02T18:35:25.667432Z",
+  "topic": "Liberty",
+  "subtopic": "5b. Man’s freedom and God’s knowledge",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Chaucer",
+    "Hobbes"
+  ],
+  "titles": [
+    "Leviathan",
+    "Nun's Priest's Tale",
+    "Troilus and Cressida"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
