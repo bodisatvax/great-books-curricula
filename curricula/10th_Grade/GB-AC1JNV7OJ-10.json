@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-AC1JNV7OJ-10",
+  "generated_at": "2026-07-02T18:26:15.349973Z",
+  "topic": "Liberty",
+  "subtopic": "5a. Man’s freedom in relation to fate or to the will of God",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Old Testament"
+  ],
+  "titles": [
+    "Exodus",
+    "Isaiah",
+    "Psalms"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
