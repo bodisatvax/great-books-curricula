@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-AGAFFKGHN-10",
+  "generated_at": "2026-07-02T17:03:36.413028Z",
+  "topic": "Liberty",
+  "subtopic": "2c. Freedom in the sphere of economic enterprise: free trade freedom from governmental restrictions",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Hegel",
+    "Marx"
+  ],
+  "titles": [
+    "Capital",
+    "Philosophy of History"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
