@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-AC33BMWYY-10",
+  "generated_at": "2026-07-03T16:55:23.793313Z",
+  "topic": "Truth",
+  "subtopic": "2e. The distinction between truth and probability:its relation to the distinction between knowledge and opinion",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Aristotle"
+  ],
+  "titles": [
+    "Metaphysics"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
