@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-A66IJ1WTZ-10",
+  "generated_at": "2026-07-03T17:03:50.076295Z",
+  "topic": "Truth",
+  "subtopic": "3a(1). The truth of sensations: judgments of perception",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Augustine",
+    "Lucretius"
+  ],
+  "titles": [
+    "City of God",
+    "Nature of Things"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
