@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-AVQP4TUKD-10",
+  "generated_at": "2026-07-03T01:23:28.296874Z",
+  "topic": "Truth",
+  "subtopic": "1a. The signs or criteria of truth: methods of verification",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Aristotle",
+    "Galen",
+    "Hippocrates"
+  ],
+  "titles": [
+    "Ancient Medicine",
+    "Natural Faculties",
+    "Politics"
+  ],
+  "total_sources": 3,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
