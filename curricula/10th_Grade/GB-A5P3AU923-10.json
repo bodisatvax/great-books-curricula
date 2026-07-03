@@ -1,0 +1,26 @@
+{
+  "curriculum_id": "GB-A5P3AU923-10",
+  "generated_at": "2026-07-03T17:11:31.587566Z",
+  "topic": "Truth",
+  "subtopic": "3a(2). Truth in the memory and imagination",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Gibbon",
+    "Hume",
+    "Locke"
+  ],
+  "titles": [
+    "Decline and Fall",
+    "Human Understanding"
+  ],
+  "total_sources": 3,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
