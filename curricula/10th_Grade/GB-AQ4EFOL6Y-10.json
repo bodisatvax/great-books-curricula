@@ -1,0 +1,24 @@
+{
+  "curriculum_id": "GB-AQ4EFOL6Y-10",
+  "generated_at": "2026-07-03T01:32:50.012907Z",
+  "topic": "Truth",
+  "subtopic": "1b. The relation between truth and being or reality",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Aristotle"
+  ],
+  "titles": [
+    "Metaphysics",
+    "Prior Analytics"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
