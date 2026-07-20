@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-AXJWGQXCS-10",
+  "generated_at": "2026-07-20T01:12:22.516689Z",
+  "topic": "Family",
+  "subtopic": "2a. Comparison of the domestic and political community in origin structure and function",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Aquinas",
+    "Augustine",
+    "Hobbes"
+  ],
+  "titles": [
+    "City of God",
+    "Leviathan",
+    "Summa Theologica"
+  ],
+  "total_sources": 3,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
