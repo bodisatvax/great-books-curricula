@@ -1,0 +1,26 @@
+{
+  "curriculum_id": "GB-A70548F1X-10",
+  "generated_at": "2026-07-20T01:19:16.733257Z",
+  "topic": "Family",
+  "subtopic": "2c. The place and rights of the family in the state: the control and education of children",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Aristotle",
+    "Plato"
+  ],
+  "titles": [
+    "Ethics",
+    "Laws",
+    "Politics"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
