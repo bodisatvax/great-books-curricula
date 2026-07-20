@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-AD5VWGNNC-10",
+  "generated_at": "2026-07-20T01:53:57.600759Z",
+  "topic": "Family",
+  "subtopic": "5c. Women in relation to war",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Aristophanes",
+    "Euripides",
+    "Herodotus"
+  ],
+  "titles": [
+    "History",
+    "Iphigenia in Aulis",
+    "Lysistrata"
+  ],
+  "total_sources": 3,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
