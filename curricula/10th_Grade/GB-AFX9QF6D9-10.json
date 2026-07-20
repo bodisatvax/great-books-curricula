@@ -1,0 +1,23 @@
+{
+  "curriculum_id": "GB-AFX9QF6D9-10",
+  "generated_at": "2026-07-20T02:00:19.934269Z",
+  "topic": "Family",
+  "subtopic": "6. Parents and children: fatherhood and motherhood",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Aristotle"
+  ],
+  "titles": [
+    "Politics"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
