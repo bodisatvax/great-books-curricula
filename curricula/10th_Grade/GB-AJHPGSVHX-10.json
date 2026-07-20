@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-AJHPGSVHX-10",
+  "generated_at": "2026-07-20T01:40:53.007965Z",
+  "topic": "Family",
+  "subtopic": "4d. The laws and customs regulating marriage: adultery and incest",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Old Testament"
+  ],
+  "titles": [
+    "Exodus",
+    "Genesis",
+    "Job"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
