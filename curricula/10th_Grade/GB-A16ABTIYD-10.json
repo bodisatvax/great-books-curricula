@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-A16ABTIYD-10",
+  "generated_at": "2026-07-20T01:25:43.635252Z",
+  "topic": "Family",
+  "subtopic": "4. The institution of marriage: Its nature and purpose",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Aristotle",
+    "Epictetus"
+  ],
+  "titles": [
+    "Discourses",
+    "Politics"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
