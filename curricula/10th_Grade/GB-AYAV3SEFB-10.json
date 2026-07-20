@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-AYAV3SEFB-10",
+  "generated_at": "2026-07-20T01:32:45.688949Z",
+  "topic": "Family",
+  "subtopic": "4b. The religious view of marriage: the sacrament of matrimony",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Aquinas",
+    "Augustine"
+  ],
+  "titles": [
+    "Christian Doctrine",
+    "Summa Theologica"
+  ],
+  "total_sources": 2,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
