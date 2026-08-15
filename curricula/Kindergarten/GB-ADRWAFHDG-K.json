@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-ADRWAFHDG-K",
+  "generated_at": "2026-08-15T17:26:47.483600Z",
+  "topic": "Dialectic",
+  "subtopic": "1. Definitions of dialectic",
+  "grade": "Kindergarten",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Plato"
+  ],
+  "titles": [
+    "Cratylus",
+    "Phaedrus",
+    "Republic"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 1,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
