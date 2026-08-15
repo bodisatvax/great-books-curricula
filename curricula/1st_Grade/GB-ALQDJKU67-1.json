@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-ALQDJKU67-1",
+  "generated_at": "2026-08-15T18:01:56.913976Z",
+  "topic": "Immortality",
+  "subtopic": "1. The desire for immortality: the fear of death",
+  "grade": "1st Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "New Testament"
+  ],
+  "titles": [
+    "Luke",
+    "Mark",
+    "Matthew"
+  ],
+  "total_sources": 1,
+  "question_type": "fill-in-the-blank",
+  "question_count": 1,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
