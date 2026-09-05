@@ -1,0 +1,25 @@
+{
+  "curriculum_id": "GB-AATPERE61-9",
+  "generated_at": "2026-09-05T13:49:09.634489Z",
+  "topic": "Love",
+  "subtopic": "1d. The object of love the good the true the beautiful God man things",
+  "grade": "9th Grade",
+  "language": "English",
+  "weeks": 1,
+  "authors": [
+    "Plato"
+  ],
+  "titles": [
+    "Lysis",
+    "Phaedrus",
+    "Symposium"
+  ],
+  "total_sources": 1,
+  "question_type": "multiple Choice",
+  "question_count": 10,
+  "christian_mode": true,
+  "christian_lens": "Reformed",
+  "interest_profile": "hunting, baseball, piano, archery",
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
