@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-AUP96F144-7",
+  "generated_at": "2026-09-19T19:11:00.283439Z",
+  "topic": "Memoryandimagination",
+  "subtopic": "7b. The fantastic and the realistic in poetry: the probable and the possible in poetry and history",
+  "grade": "7th Grade",
+  "language": "English",
+  "weeks": 2,
+  "authors": [
+    "Cervantes",
+    "Dante",
+    "Fielding"
+  ],
+  "titles": [
+    "Divine Comedy",
+    "Don Quixote",
+    "Tom Jones"
+  ],
+  "total_sources": 3,
+  "question_type": "fill-in-the-blank",
+  "question_count": 10,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
