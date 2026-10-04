@@ -1,0 +1,27 @@
+{
+  "curriculum_id": "GB-ADG31SQLG-10",
+  "generated_at": "2026-10-04T19:29:55.976709Z",
+  "topic": "Courage",
+  "subtopic": "5. The motivations of courage: fame or honor happiness love duty religious faith",
+  "grade": "10th Grade",
+  "language": "English",
+  "weeks": 6,
+  "authors": [
+    "Fielding",
+    "Gibbon",
+    "Kant"
+  ],
+  "titles": [
+    "Decline and Fall",
+    "Practical Reason",
+    "Tom Jones"
+  ],
+  "total_sources": 3,
+  "question_type": "fill-in-the-blank",
+  "question_count": 5,
+  "christian_mode": false,
+  "christian_lens": null,
+  "interest_profile": null,
+  "mode": "topic_to_books",
+  "metadata_version": "1.0"
+}
